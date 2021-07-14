@@ -321,3 +321,25 @@
 2021-07-14 11:37:34,255 [main] INFO ebanking - DOB entered.
 2021-07-14 11:37:38,601 [main] INFO ebanking - Validation started...
 2021-07-14 11:37:38,654 [main] INFO ebanking - Test case passed.
+2021-07-14 17:53:30,564 [main] INFO ebanking - URL is opened
+2021-07-14 17:53:30,766 [main] INFO ebanking - Username is entered
+2021-07-14 17:53:30,897 [main] INFO ebanking - Password is entered
+2021-07-14 17:53:31,591 [main] INFO ebanking - Login is successful.
+2021-07-14 17:53:39,274 [main] INFO ebanking - User name is provided
+2021-07-14 17:53:39,409 [main] INFO ebanking - Password is provided
+2021-07-14 17:53:43,130 [main] INFO ebanking - Login passed
+2021-07-14 17:53:47,064 [main] INFO ebanking - User name is provided
+2021-07-14 17:53:47,177 [main] INFO ebanking - Password is provided
+2021-07-14 17:53:50,964 [main] INFO ebanking - User name is provided
+2021-07-14 17:53:51,059 [main] INFO ebanking - Password is provided
+2021-07-14 17:53:54,838 [main] INFO ebanking - User name is provided
+2021-07-14 17:53:54,928 [main] INFO ebanking - Password is provided
+2021-07-14 17:53:58,395 [main] INFO ebanking - Login passed
+2021-07-14 17:54:02,376 [main] INFO ebanking - User name is provided
+2021-07-14 17:54:02,470 [main] INFO ebanking - Password is provided
+2021-07-14 17:54:20,407 [main] INFO ebanking - Provided Username
+2021-07-14 17:54:20,543 [main] INFO ebanking - Provided Password
+2021-07-14 17:54:24,591 [main] INFO ebanking - Providing customer details..
+2021-07-14 17:54:28,079 [main] INFO ebanking - DOB entered.
+2021-07-14 17:54:32,233 [main] INFO ebanking - Validation started...
+2021-07-14 17:54:32,278 [main] INFO ebanking - Test case passed.
